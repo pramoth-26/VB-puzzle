@@ -1,0 +1,17 @@
+D:\programs\New folder\task1\task1\obj\Debug\net8.0-windows\task1.Form1.resources
+D:\programs\New folder\task1\task1\obj\Debug\net8.0-windows\task1.Resources.resources
+D:\programs\New folder\task1\task1\obj\Debug\net8.0-windows\task1.vbproj.GenerateResource.cache
+D:\programs\New folder\task1\task1\obj\Debug\net8.0-windows\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\New folder\task1\task1\obj\Debug\net8.0-windows\task1.AssemblyInfoInputs.cache
+D:\programs\New folder\task1\task1\obj\Debug\net8.0-windows\task1.AssemblyInfo.vb
+D:\programs\New folder\task1\task1\obj\Debug\net8.0-windows\task1.vbproj.CoreCompileInputs.cache
+D:\programs\New folder\task1\task1\bin\Debug\net8.0-windows\task1.exe
+D:\programs\New folder\task1\task1\bin\Debug\net8.0-windows\task1.deps.json
+D:\programs\New folder\task1\task1\bin\Debug\net8.0-windows\task1.runtimeconfig.json
+D:\programs\New folder\task1\task1\bin\Debug\net8.0-windows\task1.dll
+D:\programs\New folder\task1\task1\bin\Debug\net8.0-windows\task1.pdb
+D:\programs\New folder\task1\task1\obj\Debug\net8.0-windows\task1.dll
+D:\programs\New folder\task1\task1\obj\Debug\net8.0-windows\refint\task1.dll
+D:\programs\New folder\task1\task1\obj\Debug\net8.0-windows\task1.pdb
+D:\programs\New folder\task1\task1\obj\Debug\net8.0-windows\task1.genruntimeconfig.cache
+D:\programs\New folder\task1\task1\obj\Debug\net8.0-windows\ref\task1.dll
